@@ -1,0 +1,25 @@
+import:
+- ~/.config/alacritty/theme.yml
+window:
+  opacity: 0.8
+class:
+  instance: alacritty
+  general: alacritty
+
+shell:
+  program: /usr/bin/zsh
+
+window:
+  padding:
+    x: 6
+    y: 6
+  dynamic_padding: true
+
+font:
+  bold:
+    family: JetBrainsMono Nerd Font
+  italic:
+    family: JetBrainsMono Nerd Font
+  normal:
+    family: JetBrainsMono Nerd Font
+  size: 10
