@@ -12,7 +12,7 @@
 ;; void symbol
 (defwidget void []
   (box :orientation "v" :space-evenly "false" :vexpand "false" :hexpand "false"
-  (button :class "void" :onclick "rofi -show run" "")))
+  (button :class "void" :onclick "rofi -show run" "")))
 
 ;; quit bspwm
 (defwidget quit []

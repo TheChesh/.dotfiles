@@ -1,5 +1,5 @@
 $fg: #bfc9db;
-$light_purple: #bb9af7;
+$ember_orange: #FF5733;
 $red: #d78787;
 $green: #afbea2;
 
@@ -19,13 +19,15 @@ $green: #afbea2;
 }
 
 .void {
-  font-size: 2.5em;
-	color: $light_purple;
+  font-size: 2.0em;
+	color: $ember_orange;
 	margin: 10px;
+    padding-right: 6px;
 }
 
 .quit {
   font-size: 1.5em;
-  color: $red;
+  color: $ember_orange;
   margin: -5px;
+  padding-right: 3px;
 }
