@@ -1,0 +1,31 @@
+$fg: #bfc9db;
+$light_purple: #bb9af7;
+$red: #d78787;
+$green: #afbea2;
+
+.time {
+  font-family: Iosevka Nerd Font;
+  font-weight: bold;
+  font-size: 1.2em;
+  background-color: #13141c; 
+  color: $fg;
+  border-radius: 5px;
+  padding: .9rem 0 .5rem 0;
+  margin: .5rem 0 .5rem 0;
+  padding-top: .9rem;
+  padding-right: .5rem;
+  padding-bottom: .5rem;
+  padding-left: .5rem;
+}
+
+.void {
+  font-size: 2.5em;
+	color: $light_purple;
+	margin: 10px;
+}
+
+.quit {
+  font-size: 1.5em;
+  color: $red;
+  margin: -5px;
+}
